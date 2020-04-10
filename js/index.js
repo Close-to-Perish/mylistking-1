@@ -113,7 +113,6 @@ a heart icon)"
 -BC 
 #################################################*/	
 
-
 /*###############################################
 Check the altered code above your comment to see
 the changes made to create new list items with
@@ -140,7 +139,13 @@ being added to the list so they don't buy them twice."
 #################################################*/		
 	
 /*###############################################
-
+In the above code there is now a combination of
+both for loop and if-else statement to check
+for duplicates and blanks. Depending on the 
+user's input, a window alert pops up to let the
+user known they have entered an invalid list
+item, and will clear the input field. -WDP
+################################################*/
 	
 	
   // CLICK HANDLING - USES DELEGATION ON <ul> ELEMENT
